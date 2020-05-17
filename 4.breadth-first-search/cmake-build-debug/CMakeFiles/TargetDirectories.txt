@@ -1,0 +1,3 @@
+/home/mersed/Desktop/structure-graphs/4.breadth-first-search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mersed/Desktop/structure-graphs/4.breadth-first-search/cmake-build-debug/CMakeFiles/4_breadth_first_search.dir
+/home/mersed/Desktop/structure-graphs/4.breadth-first-search/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/4_breadth_first_search.dir/main.cpp.o  -o 4_breadth_first_search /home/mersed/Desktop/structure-graphs/1.graph/build/libgraph.a 

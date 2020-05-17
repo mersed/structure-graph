@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/3_connected_components.dir/main.cpp.o  -o 3_connected_components /home/mersed/Desktop/structure-graphs/1.graph/build/libgraph.a 

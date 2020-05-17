@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -G "CodeBlocks - Unix Makefiles" /home/mersed/Desktop/structure-graphs/1.graph
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mersed/Desktop/structure-graphs/1.graph/build

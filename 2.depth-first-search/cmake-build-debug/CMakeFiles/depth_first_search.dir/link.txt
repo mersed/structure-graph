@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/depth_first_search.dir/main.cpp.o  -o depth_first_search /home/mersed/Desktop/structure-graphs/1.graph/build/libgraph.a 

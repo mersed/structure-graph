@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mersed/Desktop/structure-graphs/1.graph/Graph.h
+list
+-
+
+/home/mersed/Desktop/structure-graphs/2.depth-first-search/main.cpp
+vector
+-
+iostream
+-
+Graph.h
+/home/mersed/Desktop/structure-graphs/2.depth-first-search/Graph.h
+
